@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>ShopEasy - Online Store</title>
+    <title>Flipkart - Online Store</title>
 
     <style>
         * {
