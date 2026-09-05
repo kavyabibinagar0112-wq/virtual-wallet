@@ -201,7 +201,7 @@
 
 <!-- Banner -->
 <section class="banner">
-    <h1>Welcome to ShopEasy</h1>
+    <h1>Welcome to Flipkart</h1>
     <p>Find the best products at the best prices</p>
 
     <a href="#" class="shop-btn">Shop Now</a>
